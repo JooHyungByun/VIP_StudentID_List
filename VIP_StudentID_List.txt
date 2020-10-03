@@ -10,6 +10,5 @@
 8. 이성민: 2017707066, repository: https://github.com/SeongMin2/Assignment1
 9. 심민정: 2017204091, repository: 
 10.장지연: 2017204045, repository: https://github.com/jji1902/VIPtest2
->>>>>>> upstream/master
 ==================================
 
