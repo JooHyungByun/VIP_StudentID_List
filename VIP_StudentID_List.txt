@@ -1,4 +1,3 @@
-
 ﻿==========VIP_Student_ID==========
 0. 변주형: 2019110601, repository: https://github.com/JooHyungByun/VIPtest
 1. 김대관: 2012741078, repository: 
@@ -8,8 +7,7 @@
 5. 현민기: 2017706106, repository: https://github.com/minki-Hyun/Assignment1.git
 6. 정용훈: 2018707017, repository: https://github.com/wjddydgns99/vip.git
 7. 신승현: 2016707015, repository: 
-8. 이성민: 2017707066, repository: 
+8. 이성민: 2017707066, repository: https://github.com/SeongMin2/Assignment1
 9. 심민정: 2017204091, repository: https://github.com/SHIMMJ/kw_vip
-10.장지연: 2017204045, repository: 
+10.장지연: 2017204045, repository: https://github.com/jji1902/VIPtest2
 ==================================
-
