@@ -6,7 +6,7 @@
 4. 권나성: 2017203062, repository: 
 5. 현민기: 2017706106, repository: https://github.com/minki-Hyun/Assignment1.git
 6. 정용훈: 2018707017, repository: https://github.com/wjddydgns99/vip.git
-7. 신승현: 2016707015, repository: 
+7. 신승현: 2016707015, repository: https://github.com/kwssh/Assignment.git
 8. 이성민: 2017707066, repository: https://github.com/SeongMin2/Assignment1
 9. 심민정: 2017204091, repository: https://github.com/SHIMMJ/kw_vip
 10.장지연: 2017204045, repository: https://github.com/jji1902/VIPtest2
