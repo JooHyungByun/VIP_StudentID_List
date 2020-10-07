@@ -1,7 +1,7 @@
 ﻿==========VIP_Student_ID==========
 0. 변주형: 2019110601, repository: https://github.com/JooHyungByun/VIPtest
 1. 김대관: 2012741078, repository: 
-2. 허정범: 2017741047, repository: 
+2. 허정범: 2017741047, repository: https://github.com/okpocandy/Assignment1.git
 3. 장우현: 2017741009, repository: https://github.com/dngus1683/Assignment.git
 4. 권나성: 2017203062, repository: https://github.com/kwonnaseong/KW_VIP_2020-2
 5. 현민기: 2017706106, repository: https://github.com/minki-Hyun/Assignment1.git
